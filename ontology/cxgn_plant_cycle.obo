@@ -108,3 +108,10 @@ name: cycle 4 tallest sucker
 synonym: "C4_tall_sckr" EXACT []
 def: "Fourth cycle (ratoon four-tallest sucker)." []
 is_a: PLANT_CYCLE:0000001
+
+[Term]
+id: PLANT_CYCLE:0000005
+name: cycle 0
+synonym: "C0" EXACT []
+def: "First planting (or plant cane)." []
+is_a: PLANT_CYCLE:0000005
